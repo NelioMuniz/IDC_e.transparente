@@ -1,24 +1,20 @@
 # Webscraping - Prefeitura de Seropédica
 
 # Configurando o diretório de trabalho
-setwd("C:/Users/Nelio/Documents/Etransparente_IDC")
+setwd("../IDC_e.transparente")
 getwd()
 
 # Instalando e carregando pacotes R para Web Scraping
 install.packages("rvest")
-install.packages("lubridate")
 
 library(rvest)
 library(stringr)
 library(dplyr)
-library(lubridate)
 library(readr)
 library(xml2)
 ?rvest
-?lubridate
 
 # Leitura da página web
-
 ?read_html
 page <- 1
 url <- paste0("https://transparencia.seropedica.rj.gov.br/sistema_contratos/todas_contratos.php?pagina=",
