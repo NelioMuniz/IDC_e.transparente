@@ -1,7 +1,6 @@
 # Web Scraping Portal de Transparência - Prefeitura de Seropédica
 
-### O objetivo deste trabalho é fazer a coleta de dados da página web "Sistema de Contratos" da
-### Prefeitura Municipal de Seropédica - RJ
+### O objetivo deste trabalho é fazer a coleta de dados da página web "Sistema de Contratos" da Prefeitura Municipal de Seropédica - RJ
 
 Link: https://transparencia.seropedica.rj.gov.br/consultas-de-contratos/
 
