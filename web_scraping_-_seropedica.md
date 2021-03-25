@@ -17,7 +17,10 @@ Link: https://transparencia.seropedica.rj.gov.br/consultas-de-contratos/
 - Construção do dataset - matriz
 - Atribuição de nomes para as colunas
 
-## **_Próximos passos_**
+**25/03/2021**
 
 - Looping para leitura de todas as páginas com informações dos contratos
+
+## **_Próximos passos_**
+
 - Verificação do *charset* dos dados
