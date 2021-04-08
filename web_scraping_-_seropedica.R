@@ -1,9 +1,5 @@
 # Webscraping - Prefeitura de Seropédica
 
-# Configurando o diretório de trabalho
-setwd("C:/Users/Nelio/Documents/Etransparente_IDC")
-getwd()
-
 # Instalando e carregando pacotes R para Web Scraping
 install.packages("rvest")
 install.packages("lubridate")
